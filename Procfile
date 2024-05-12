@@ -1,1 +1,1 @@
-worker: python -m MusicAzBot
+worker: python -m JockieMusicBot
